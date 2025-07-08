@@ -6,7 +6,7 @@ An offline desktop application built in Python that **automates the extraction o
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 ✅ **Multi-Video Processing** — Load and batch-analyze multiple `.mp4` files  
 ✅ **Frame Skipping** — Adjust how frequently frames are sampled (1s, 5s, 10s, etc.)  
